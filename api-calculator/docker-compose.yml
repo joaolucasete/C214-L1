@@ -1,0 +1,11 @@
+version: '2.1'
+services:
+  api-calculator:
+    image: api-calculator
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/api-calculator - node_modules:/api-calculator/node_modules
+volumes:
+  node_modules: {}
