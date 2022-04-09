@@ -2,14 +2,13 @@
   "name": "meme-maker",
   "version": "1.0.0",
   "main": "src/index.js",
-  "type": "module",
   "repository": "https://github.com/joaolucasete/C214-L1",
   "author": "joao lucas",
   "license": "MIT",
   "scripts": {
     "start": "node src/index.js",
     "live-reload": "npx nodemon src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "dependencies": {
     "express": "^4.17.3"
