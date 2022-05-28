@@ -1,4 +1,4 @@
-# Calculator API
+# Calculator API [![ApiCalculatorCI](https://github.com/joaolucasete/C214-L1/actions/workflows/api-calculator.yml/badge.svg)](https://github.com/joaolucasete/C214-L1/actions/workflows/api-calculator.yml)
 > Calculator API to perform simple math operations.
 
 This is a simple api to perform math operation like sum, sub, mul and div.
