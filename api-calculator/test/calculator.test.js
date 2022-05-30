@@ -1,4 +1,4 @@
-const Calculator = require("../src/service/calculatorService.js");
+const Calculator = require("../src/service/CalculatorService.js");
 
 // create mockCalculator
 const mockCalculator = {
